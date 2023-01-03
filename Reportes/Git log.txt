@@ -1,0 +1,105 @@
+commit ffb37162fbe37cb462779b5748528413ed119ba5 (HEAD -> main, origin/main/HEAD)
+Author: Rmiranda01 <rmirandav@miumg.edu.gt>
+Date:   Tue Jan 3 15:42:00 2023 -0600
+
+    script de base
+
+commit 64dd2e6d968bb1a67386f71cac2076c664310949
+Merge: 9bdb4f3 65c529c
+Author: Rmiranda01 <80010199+Rmiranda01@users.noreply.github.com>
+Date:   Tue Jan 3 15:39:42 2023 -0600
+
+    Merge pull request #5 from Rmiranda01/RamaTransaccional0901193269
+
+    Rama transaccional0901193269
+
+commit 65c529c05e1270bbf59a8edfa4a414d9151a5489 (origin/RamaTransacciona269)
+Merge: bc90702 5a5c476
+Author: Rmiranda01 <80010199+Rmiranda01@users.noreply.github.com>
+Date:   Tue Jan 3 15:37:26 2023 -0600
+
+    Merge pull request #4 from Rmiranda01/RamaMantenimientos0901193269
+
+    Transaccion venta de boletos
+
+commit 5a5c476a3b4bdc23429ce8759a71ad49ef580239 (origin/RamaMantenimient3269)
+Merge: bc90702 c18a97f
+Author: Rmiranda01 <80010199+Rmiranda01@users.noreply.github.com>
+Date:   Tue Jan 3 15:36:05 2023 -0600
+
+    Merge pull request #3 from Rmiranda01/RamaContenedor0901193269
+
+    Mantenimientos
+
+commit c18a97f38eba412839f4ba2cf9379e4e21610039 (origin/RamaContenedor09, RamaContenedor0901193269)
+Author: Rmiranda01 <rmirandav@miumg.edu.gt>
+Date:   Tue Jan 3 15:32:22 2023 -0600
+
+    Contenedor
+
+commit 9bdb4f33b32e5f74ca58c2a5a8766a6ab31431f2
+Merge: bd025e1 01eb187
+Author: Rmiranda01 <80010199+Rmiranda01@users.noreply.github.com>
+Date:   Tue Jan 3 15:19:23 2023 -0600
+
+    Merge pull request #2 from Rmiranda01/RamaDiagramas0901193269
+
+    Diagrama entidad Relacion
+
+commit 01eb1873f05576871014694d71a77f3013ba5ff8 (origin/RamaDiagramas090 RamaDiagramas0901193269)
+Author: Rmiranda01 <rmirandav@miumg.edu.gt>
+Date:   Tue Jan 3 13:51:35 2023 -0600
+
+    Diagrama entidad Relacion
+
+commit bd025e1a8f0a05f426bc861952687153ff95df4d
+Merge: bc90702 08a4bf7
+Author: Rmiranda01 <80010199+Rmiranda01@users.noreply.github.com>
+Date:   Tue Jan 3 10:08:46 2023 -0600
+
+    Merge pull request #1 from Rmiranda01/RamaDiagramas0901193269
+
+    Rama diagramas0901193269
+
+commit 08a4bf7f7b3bc8268897903e719452da87149010
+Author: Rmiranda01 <rmirandav@miumg.edu.gt>
+Date:   Tue Jan 3 10:06:28 2023 -0600
+
+    Realizacion de Diagramas
+
+commit f0ba0196604a21d2fe511f0a5b6aafc1de1065df
+Author: Rmiranda01 <rmirandav@miumg.edu.gt>
+Date:   Tue Jan 3 08:24:57 2023 -0600
+
+    Carpetas
+
+commit bc90702b2b3f9513cfc3e6a24666e2b70bd157f1
+Author: Rmiranda01 <80010199+Rmiranda01@users.noreply.github.com>
+Date:   Tue Jan 3 08:00:33 2023 -0600
+
+    Initial commit
+(END)
+Date:   Tue Jan 3 10:08:46 2023 -0600
+
+    Merge pull request #1 from Rmiranda01/RamaDiagramas0901193269
+
+    Rama diagramas0901193269
+
+commit 08a4bf7f7b3bc8268897903e719452da87149010
+Author: Rmiranda01 <rmirandav@miumg.edu.gt>
+Date:   Tue Jan 3 10:06:28 2023 -0600
+
+    Realizacion de Diagramas
+
+commit f0ba0196604a21d2fe511f0a5b6aafc1de1065df
+Author: Rmiranda01 <rmirandav@miumg.edu.gt>
+Date:   Tue Jan 3 08:24:57 2023 -0600
+
+    Carpetas
+
+commit bc90702b2b3f9513cfc3e6a24666e2b70bd157f1
+Author: Rmiranda01 <80010199+Rmiranda01@users.noreply.github.com>
+Date:   Tue Jan 3 08:00:33 2023 -0600
+
+    Initial commit
+(END)
